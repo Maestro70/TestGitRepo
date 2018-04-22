@@ -1,2 +1,2 @@
 # TestGitRepo
-This is a test repository. Very cool c# project :)
+This is a test repository. Very cool csharp project :)
