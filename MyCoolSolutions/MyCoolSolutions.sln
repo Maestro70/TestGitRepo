@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoolProject", "MyCoolProject\MyCoolProject.csproj", "{DA8D2019-24FE-4A44-BBAA-D662E3B77F63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogProject", "DogProject\DogProject.csproj", "{899BBE3F-BC66-4B00-BAB0-4E4D6807F9EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{DA8D2019-24FE-4A44-BBAA-D662E3B77F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA8D2019-24FE-4A44-BBAA-D662E3B77F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA8D2019-24FE-4A44-BBAA-D662E3B77F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899BBE3F-BC66-4B00-BAB0-4E4D6807F9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899BBE3F-BC66-4B00-BAB0-4E4D6807F9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899BBE3F-BC66-4B00-BAB0-4E4D6807F9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899BBE3F-BC66-4B00-BAB0-4E4D6807F9EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
