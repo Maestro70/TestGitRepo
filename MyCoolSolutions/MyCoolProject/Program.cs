@@ -10,9 +10,9 @@ namespace MyCoolProject
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat("Mario");
+            Cat cat = new Cat("Mario", 6);
             Console.WriteLine("Hello GitHub!!!");
-            Console.WriteLine(cat.Name);
+            Console.WriteLine(cat.Name + "   " + cat.Age);
         }
     }
 }
