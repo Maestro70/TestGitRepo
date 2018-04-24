@@ -11,7 +11,7 @@ namespace DogProject
         string name;
         int age;
 
-        public Dog(string name, int age)
+        public Dog()
         {
             this.Name = name;
             this.Age = age;
