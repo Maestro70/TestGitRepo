@@ -1,6 +1,2 @@
 second new file 2.
-<<<<<<< HEAD
-Change from OTHERGIT
-=======
-Change from SOMEGIT
->>>>>>> bdc1f9960e168f89f312ac6303c31fa062ff389d
+Change from Myself
