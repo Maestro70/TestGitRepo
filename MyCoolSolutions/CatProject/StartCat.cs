@@ -14,6 +14,7 @@ namespace CatProject
             Console.WriteLine("Hello GitHub!!!");
             Console.WriteLine(cat.Name + "   " + cat.Age);
             Console.WriteLine("Hello conflict from SOMEGIT");
+            Console.WriteLine("Hello conflict from OTHERGIT");
         }
     }
 }
